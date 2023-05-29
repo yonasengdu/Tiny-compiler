@@ -86,5 +86,7 @@ main:
     li $v0, 10
     syscall
 
-You can copy and save this content as a Markdown file (e.g., `README.md`) for your project.
+## Contributions
+
+Contributions to this project are welcome! If you have any improvements or new features to add, please feel free to open an issue or submit a pull request.
 
